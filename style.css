@@ -1,0 +1,14 @@
+h3{
+    background-color: palegreen;
+    text-align: center;
+}
+iframe{
+    opacity: 0.5;
+}
+iframe:hover{
+    opacity: 7;
+}
+body{
+    color:blue;
+    background-color: steelblue;
+}
